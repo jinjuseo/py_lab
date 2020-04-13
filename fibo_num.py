@@ -20,7 +20,7 @@ if __name__=='__main__':
 			
 			fibo_num = x+y
 			#print(",%d"%fibo_num, end=' ')
-			#print(",%d"%fibo_num)
+			
 			sys.stdout.write(",%d"%fibo_num)
 			x=y
 			y=fibo_num	

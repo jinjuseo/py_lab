@@ -8,5 +8,5 @@ if __name__=='__main__':
 		num = int(input("input: "))
 		sum += num;
 	average = sum/n
-	print("average is %d " % average)
+	print("average is %d " % average) 
 	
